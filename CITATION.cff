@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the paper."
+title: "Context-Aware Multimodal Student Support with Wearable Sensing and Conversational AI: code and data tables"
+authors:
+  - family-names: Mishra
+    given-names: Pankaj
+  - family-names: Parab
+    given-names: Sanskar
+  - family-names: Saha
+    given-names: Tanisha
+  - family-names: Hotelwala
+    given-names: Taher
+repository-code: "CODE_REPO_URL"
+license: MIT
