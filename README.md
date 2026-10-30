@@ -35,9 +35,7 @@ python scripts/check_dataset.py ../student-support-css/data/released
 python scripts/analyze_ratings.py ../student-support-css/data/released ../student-support-css/results
 ```
 
-## Status
 
-The experiment scripts and the runtime were written from the paper's protocol and tested on synthetic fixtures only (see `experiments/README.md`, `docs/ARCHITECTURE.md`).
 
 ## Licence
 
